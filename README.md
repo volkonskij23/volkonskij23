@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**volkonskij23/volkonskij23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi there👋
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/></div>
+:woman_technologist: About Me :
+
+* 📋 25 y.o., Freelancer, certified information security specialist (Expert Security Officer) from Moscow
+* 🐍 Like to automate routine tasks with Python
+* 📈 Interested in cryptocurrency trading
+* 🌱 Currently learning Solidity and Blockchain
+
